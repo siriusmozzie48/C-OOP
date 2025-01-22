@@ -1,0 +1,16 @@
+C:\METU\2nd year\C#\BankAccountsApp\bin\Debug\net9.0-windows\BankAccountsApp.exe
+C:\METU\2nd year\C#\BankAccountsApp\bin\Debug\net9.0-windows\BankAccountsApp.deps.json
+C:\METU\2nd year\C#\BankAccountsApp\bin\Debug\net9.0-windows\BankAccountsApp.runtimeconfig.json
+C:\METU\2nd year\C#\BankAccountsApp\bin\Debug\net9.0-windows\BankAccountsApp.dll
+C:\METU\2nd year\C#\BankAccountsApp\bin\Debug\net9.0-windows\BankAccountsApp.pdb
+C:\METU\2nd year\C#\BankAccountsApp\obj\Debug\net9.0-windows\BankAccountsApp.Form1.resources
+C:\METU\2nd year\C#\BankAccountsApp\obj\Debug\net9.0-windows\BankAccountsApp.csproj.GenerateResource.cache
+C:\METU\2nd year\C#\BankAccountsApp\obj\Debug\net9.0-windows\BankAccountsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\METU\2nd year\C#\BankAccountsApp\obj\Debug\net9.0-windows\BankAccountsApp.AssemblyInfoInputs.cache
+C:\METU\2nd year\C#\BankAccountsApp\obj\Debug\net9.0-windows\BankAccountsApp.AssemblyInfo.cs
+C:\METU\2nd year\C#\BankAccountsApp\obj\Debug\net9.0-windows\BankAccountsApp.csproj.CoreCompileInputs.cache
+C:\METU\2nd year\C#\BankAccountsApp\obj\Debug\net9.0-windows\BankAccountsApp.dll
+C:\METU\2nd year\C#\BankAccountsApp\obj\Debug\net9.0-windows\refint\BankAccountsApp.dll
+C:\METU\2nd year\C#\BankAccountsApp\obj\Debug\net9.0-windows\BankAccountsApp.pdb
+C:\METU\2nd year\C#\BankAccountsApp\obj\Debug\net9.0-windows\BankAccountsApp.genruntimeconfig.cache
+C:\METU\2nd year\C#\BankAccountsApp\obj\Debug\net9.0-windows\ref\BankAccountsApp.dll
