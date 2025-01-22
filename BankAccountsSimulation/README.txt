@@ -1,3 +1,4 @@
+
 # BankAccountsSimulation
 
 A banking system simulation project built in C# using Web Forms, demonstrating key object-oriented programming (OOP) principles. This project enables users to create and manage bank accounts (Normal and Savings), perform deposit and withdrawal operations, and validate transactions to ensure proper account management.
@@ -110,6 +111,5 @@ The project can be expanded with:
 
 ## Acknowledgements
 
-- Inspired by the lessons and exercises from the Learn C# Programming – Full Course with Mini-Projects [https://www.youtube.com/watch?v=YrtFtdTTfv0] and C# OOP - Practical Examples (Beginner to Advanced) [https://www.youtube.com/playlist?list=PL43pGnjiVwgQz4PVzcZGAQNb3fDnWxNx2]
+- Inspired by the lessons and exercises from the Learn C# Programming – Full Course with Mini-Projects [https://www.youtube.com/watch?v=YrtFtdTTfv0](https://www.youtube.com/watch?v=YrtFtdTTfv0) and C# OOP - Practical Examples (Beginner to Advanced) [https://www.youtube.com/playlist?list=PL43pGnjiVwgQz4PVzcZGAQNb3fDnWxNx2](https://www.youtube.com/playlist?list=PL43pGnjiVwgQz4PVzcZGAQNb3fDnWxNx2)
 - Special thanks to all resources and mentors who contributed to my understanding of OOP and C#.
-
