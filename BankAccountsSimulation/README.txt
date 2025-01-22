@@ -112,4 +112,3 @@ The project can be expanded with:
 
 - Inspired by the lessons and exercises from the Learn C# Programming – Full Course with Mini-Projects [https://www.youtube.com/watch?v=YrtFtdTTfv0](https://www.youtube.com/watch?v=YrtFtdTTfv0) and C# OOP - Practical Examples (Beginner to Advanced) [https://www.youtube.com/playlist?list=PL43pGnjiVwgQz4PVzcZGAQNb3fDnWxNx2](https://www.youtube.com/playlist?list=PL43pGnjiVwgQz4PVzcZGAQNb3fDnWxNx2)
 - Special thanks to all resources and mentors who contributed to my understanding of OOP and C#.
-
