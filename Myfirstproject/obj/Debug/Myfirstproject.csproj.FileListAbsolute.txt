@@ -1,0 +1,7 @@
+C:\METU\2nd year\C#\Myfirstproject\bin\Debug\Myfirstproject.exe.config
+C:\METU\2nd year\C#\Myfirstproject\bin\Debug\Myfirstproject.exe
+C:\METU\2nd year\C#\Myfirstproject\bin\Debug\Myfirstproject.pdb
+C:\METU\2nd year\C#\Myfirstproject\obj\Debug\Myfirstproject.csproj.AssemblyReference.cache
+C:\METU\2nd year\C#\Myfirstproject\obj\Debug\Myfirstproject.csproj.CoreCompileInputs.cache
+C:\METU\2nd year\C#\Myfirstproject\obj\Debug\Myfirstproject.exe
+C:\METU\2nd year\C#\Myfirstproject\obj\Debug\Myfirstproject.pdb
